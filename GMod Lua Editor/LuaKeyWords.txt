@@ -1,0 +1,12 @@
+Word Char
+_OtherStuff
+
+Lua Operator
+* / - + ( ) = { } ~ [ ] ; < > , . ^ % : # & | !
+
+
+SubLevel++ Operators
+if do function repeat
+
+SubLevel-- Operators
+end until
